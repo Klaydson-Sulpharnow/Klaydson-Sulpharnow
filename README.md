@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ Animação de cobra ](https://github.com/thobiassilva/thobiassilva/blob/output/github-contribution-grid-snake.svg)
+![ Animação de cobra ](https://github.com/Klaydson-Sulpharnow/Klaydson-Sulpharnow/blob/output/github-contribution-grid-snake.svg)
 
 <p align="esquerda">
   <a href="http://mailto:sulpharnow6873@gmail.com" alt="Gmail">

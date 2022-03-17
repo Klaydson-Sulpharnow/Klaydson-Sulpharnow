@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 <p align="esquerda">
   <a href="http://mailto:sulpharnow6873@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=http://mailto:thobiaspsilva@gmail.com/" />< /a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=http://mailto:thobiaspsilva@gmail.com/" />< 
 
   <a href="https://www.linkedin.com/feed/?trk=BR-SEM_google-adwords_Jordan-brand-sign-up" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thobiaspsilva/" />< /a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thobiaspsilva/" />
 
   <a href="https://www.instagram.com/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/thobias_silva/"/>< /a
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/thobias_silva/"/>
   
-  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fthobiassilva" alt="Github">
+  <a href="https://github.com/Klaydson-Sulpharnow" alt="Github">
   <img src="https://img.shields.io/github/followers/thobiassilva?label=follow&?style=flat-square&labelColor=3b5998&logo=github&link=https://github.com/thobiassilva"/> 
 
 </p>  

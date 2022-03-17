@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="esquerda">
   <a href="http://mailto:sulpharnow6873@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=http://mailto:thobiaspsilva@gmail.com/" />< 
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=http://mailto:thobiaspsilva@gmail.com/" />
 
   <a href="https://www.linkedin.com/feed/?trk=BR-SEM_google-adwords_Jordan-brand-sign-up" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thobiaspsilva/" />
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 </p>  
     
-    <div align="center">
+    
 <a href="https://github.com/Klaydson-Sulpharnow">
 <div align="center">
 <img width="364px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaydson-Sulpharnow&layout=compact&langs_count=7&theme=onedark"/>
